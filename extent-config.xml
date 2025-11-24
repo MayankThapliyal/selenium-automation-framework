@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration>
+  <reportName>Automation Report</reportName>
+  <documentTitle>Automation Test Report</documentTitle>
+
+  <theme>standard</theme>
+  <timelineEnabled>true</timelineEnabled>
+
+  <encoding>UTF-8</encoding>
+  <protocol>HTTPS</protocol>
+
+  <chartVisibilityOnOpen>true</chartVisibilityOnOpen>
+  <viewOrder>dashboard,tests,categories</viewOrder>
+</configuration>
